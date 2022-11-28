@@ -1,0 +1,15 @@
+{
+  "name": "dragonflight-awake",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.1.0"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
